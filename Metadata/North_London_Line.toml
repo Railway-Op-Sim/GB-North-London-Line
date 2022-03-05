@@ -1,0 +1,13 @@
+rly_file = "North_London_Line.rly"
+ttb_files = []
+img_files = [ "North_London_Line.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-03-05"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+display_name = "North London Line"
+name = "North London Line"
+author = "Kristian Zarębski"
+contributors = []
