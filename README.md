@@ -10,7 +10,7 @@ This simulation covers a large portion of the central region of the London Overg
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :heavy_check_mark:      |
 | Naming | :heavy_check_mark:      |
-| Speed Limits | :x: |
+| Speed Limits | :heavy_check_mark: |
 | Distances | :x: |
 | Timetable | :x: |
 | Documentation | :x: |
