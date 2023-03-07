@@ -1,5 +1,5 @@
 rly_file = "North_London_Line.rly"
-ttb_files = []
+ttb_files = [ "NLL_MoFri_2022.ttb",]
 img_files = [ "North_London_Line.bmp",]
 doc_files = [ "README.md",]
 release_date = "2022-03-05"
@@ -11,3 +11,5 @@ display_name = "North London Line"
 name = "North London Line"
 author = "Kristian Zarębski"
 contributors = []
+year = 2023
+signal_position = "left"
