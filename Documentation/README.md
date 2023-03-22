@@ -28,6 +28,7 @@ Control of the North London Line is a challenge:
 * Pay close attention to services entering from the directory of Tilbury/Barking Riverside via Barking station. Only one service can pass along this line at a time, in general services alternate in direction. Services from Woodgrange Park are usually held at this location to await those coming from Barking.
 * Note the level crossing near Mitre Bridge Jn, you should aim to open this crossing in time for services coming from Wembley. As a rule, try to keep an eye on all entry points.
 * Make sure to route services correctly at Willesden Junction, Gunnersbury Junction, Mitre Bridge Junction and Gospel Oak.
+* Caledonian Road & Barnsbury is an island platform station, make sure to route stopping services correctly. Also make sure services which are timetabled to pause at Westbourne Road Junction do not block passenger trains.
 * Acton Wells Junction has quite a few freight services entering then leaving the map (a couple even re-enter to/from Mitre Bridge Junction).
 * At Kensington (Olympia) passenger services heading towards Shepherd's Bush are routed into the platform (see timetable). Freight services are sent along the central bypass.
 * At any one time, no fewer than 5 services may state they require attention, however they may all not yet be due. Just because there is lots of flashing does not mean you are doing badly! Focus on keeping services on time as opposed to all "happy".
