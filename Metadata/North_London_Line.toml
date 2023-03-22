@@ -1,6 +1,7 @@
 rly_file = "North_London_Line.rly"
 ttb_files = [ "NLL_MoFri_2023.ttb",]
 img_files = [ "North_London_Line.bmp",]
+ssn_files = [ "MoFri2023_05_30_North_London_Line.ssn", ]
 doc_files = [ "README.md",]
 release_date = "2022-03-05"
 version = "1.0.0"
